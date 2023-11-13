@@ -1,6 +1,9 @@
 # The canonical out-of-tree build subdirectory
 build
 
+bin/
+bin-int/
+
 # Visual Studio clutter
 _ReSharper*
 *.sdf
@@ -101,4 +104,3 @@ tests/timeout
 tests/title
 tests/triangle-vulkan
 tests/windows
-
